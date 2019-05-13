@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturaLocaserv", "ReciboLocaserv\FaturaLocaserv.csproj", "{33854267-C18A-4DEE-9700-8514938033D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{A49C5739-B5E6-43B0-982D-C30225D835FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes", "Testes\Testes.csproj", "{F1BE036E-CBFB-476D-9211-088B52D2A0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPdf", "FactoryPdf\FactoryPdf.csproj", "{890EAAEC-CE04-456B-BDBF-8EAEF1779489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveFiles", "SaveFiles\SaveFiles.csproj", "{89C5C957-53A9-415A-8E0C-1FFC80BE4B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33854267-C18A-4DEE-9700-8514938033D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33854267-C18A-4DEE-9700-8514938033D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33854267-C18A-4DEE-9700-8514938033D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33854267-C18A-4DEE-9700-8514938033D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49C5739-B5E6-43B0-982D-C30225D835FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49C5739-B5E6-43B0-982D-C30225D835FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49C5739-B5E6-43B0-982D-C30225D835FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49C5739-B5E6-43B0-982D-C30225D835FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BE036E-CBFB-476D-9211-088B52D2A0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BE036E-CBFB-476D-9211-088B52D2A0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BE036E-CBFB-476D-9211-088B52D2A0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BE036E-CBFB-476D-9211-088B52D2A0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890EAAEC-CE04-456B-BDBF-8EAEF1779489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890EAAEC-CE04-456B-BDBF-8EAEF1779489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890EAAEC-CE04-456B-BDBF-8EAEF1779489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890EAAEC-CE04-456B-BDBF-8EAEF1779489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C5C957-53A9-415A-8E0C-1FFC80BE4B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C5C957-53A9-415A-8E0C-1FFC80BE4B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C5C957-53A9-415A-8E0C-1FFC80BE4B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C5C957-53A9-415A-8E0C-1FFC80BE4B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6BCA4B-35A1-4F73-9981-F0D04F315B7C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jersonb.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ReciboLocaserv\\FaturaLocaserv.csproj
+		SccProjectName1 = ReciboLocaserv
+		SccLocalPath1 = ReciboLocaserv
+		SccProjectUniqueName2 = Biblioteca\\Biblioteca.csproj
+		SccProjectName2 = Biblioteca
+		SccLocalPath2 = Biblioteca
+		SccProjectUniqueName3 = Testes\\Testes.csproj
+		SccProjectName3 = Testes
+		SccLocalPath3 = Testes
+		SccProjectUniqueName4 = FactoryPdf\\FactoryPdf.csproj
+		SccProjectName4 = FactoryPdf
+		SccLocalPath4 = FactoryPdf
+		SccProjectUniqueName5 = SaveFiles\\SaveFiles.csproj
+		SccProjectName5 = SaveFiles
+		SccLocalPath5 = SaveFiles
+	EndGlobalSection
+EndGlobal
